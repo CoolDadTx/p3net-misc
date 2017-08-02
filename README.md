@@ -1,3 +1,6 @@
-# p3net-misc
+# Miscellaneous code from P3Net
 
-Miscellaneous code for P3Net blog
+## RestApiProjectTemplate
+Simplified project template for creating Web APIs without MVC.
+
+[Article](http://www.michaeltaylorp3.net/creating-a-rest-api-project-template/)
