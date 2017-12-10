@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessDemo", "DataAccessDemo\DataAccessDemo.csproj", "{22E31394-35C6-4662-9D78-780C19301D73}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "DemoDatabase", "DemoDatabase\DemoDatabase.sqlproj", "{81F5601C-4C8B-4E6E-9515-D7E7A1FE51F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22E31394-35C6-4662-9D78-780C19301D73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22E31394-35C6-4662-9D78-780C19301D73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22E31394-35C6-4662-9D78-780C19301D73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22E31394-35C6-4662-9D78-780C19301D73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81F5601C-4C8B-4E6E-9515-D7E7A1FE51F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81F5601C-4C8B-4E6E-9515-D7E7A1FE51F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81F5601C-4C8B-4E6E-9515-D7E7A1FE51F9}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{81F5601C-4C8B-4E6E-9515-D7E7A1FE51F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81F5601C-4C8B-4E6E-9515-D7E7A1FE51F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81F5601C-4C8B-4E6E-9515-D7E7A1FE51F9}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C857AAAB-8D61-4716-B1CE-649837383715}
+	EndGlobalSection
+EndGlobal

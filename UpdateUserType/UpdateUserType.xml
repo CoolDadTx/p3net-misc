@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<updateUserType>
+    <!-- Controls file monitoring       
+            name    ::= Path to file
+            monitor ::= Determines if the file is monitored
+      -->
+    <fileMonitors autoRefresh="true" refreshInterval="60000">
+        <fileMonitor name=".\UserTypes\atl.txt" monitor="false" />
+        <fileMonitor name=".\UserTypes\C rtl.txt" monitor="true" />
+        <fileMonitor name=".\UserTypes\mfc.txt" monitor="true" />
+        <fileMonitor name=".\UserTypes\win32.txt" monitor="true" />
+    </fileMonitors>
+</updateUserType>
